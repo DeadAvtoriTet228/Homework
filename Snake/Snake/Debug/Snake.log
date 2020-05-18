@@ -1,0 +1,17 @@
+﻿  Snake.cpp
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(39,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(48,23): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(49,25): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(49,22): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(56,21): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(56,18): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(60,27): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(61,30): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(62,21): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(63,22): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(64,23): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(65,24): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(172,29): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(47,24): warning C4101: left: неиспользованная локальная переменная
+C:\Users\User\source\repos\Snake\Snake\Snake.cpp(47,30): warning C4101: right: неиспользованная локальная переменная
+  Snake.vcxproj -> C:\Users\User\source\repos\Snake\Debug\Snake.exe
